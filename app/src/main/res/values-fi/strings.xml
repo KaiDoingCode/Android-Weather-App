@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sääsovellukeni</string>
+    <string name="weather_description">Tämä on sääsymboli</string>
+    <string name="today">Nykyinen päivämäärä</string>
+    <string name="tomorrow">Huominen päivämäärä</string>
+    <string name="now">Nyt</string>
+    <string name="time_tomorrow">Huomenna</string>
+    <string name="overall">"Sää Kuvaus: "</string>
+    <string name="unknown">Tuntematon</string>
+    <string name="temperature">"Lämpötila: "</string>
+    <string name="button_check_today">Tarkista tämän päivän ennuste</string>
+    <string name="button_check_tomorrow">Tarkista huominen ennuste</string>
+    <string name="button_get_tomorrow_forecast">Tarkista huominen ennuste</string>
+    <string name="button_back_to_today">Palaa nykyiseen säähän</string>
+</resources>

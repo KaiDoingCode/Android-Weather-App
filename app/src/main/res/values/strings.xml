@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Wether Application</string>
+    <string name="weather_description">This is the weather symbol</string>
+    <string name="today">Current Date</string>
+    <string name="tomorrow">Tomorrow Date</string>
+    <string name="now">Now</string>
+    <string name="time_tomorrow">Tomorrow</string>
+    <string name="unknown">Unknown</string>
+    <string name="temperature">Temperature: </string>
+    <string name="button_check_today">Get Today Forecast</string>
+    <string name="button_get_tomorrow_forecast">Get Tomorrow Forecast</string>
+    <string name="button_back_to_today">Back to Current Weather</string>
+    <string name="overall">"Overall: "</string>
+    <string name="button_check_tomorrow">Check Tomorrow</string>
+</resources>

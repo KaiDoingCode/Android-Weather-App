@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dự báo thời tiết</string>
+    <string name="weather_description">Đây là icon thời tiết</string>
+    <string name="today">Ngày hôm nay</string>
+    <string name="tomorrow">Ngày mai</string>
+    <string name="now">Giờ</string>
+    <string name="time_tomorrow">Mai</string>
+    <string name="unknown">Chưa có thông tin</string>
+    <string name="temperature">"Nhiệt độ: "</string>
+    <string name="button_check_today">Dự báo thời tiết hôm nay</string>
+    <string name="button_get_tomorrow_forecast">Dự báo thời tiết ngày mai</string>
+    <string name="button_back_to_today">Trở về dự báo hôm nay</string>
+    <string name="overall">Tổng quan</string>
+    <string name="button_check_tomorrow">Thông tin ngày mai</string>
+</resources>
